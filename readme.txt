@@ -1,1 +1,1 @@
-is quick & simple
+is quick and simple
