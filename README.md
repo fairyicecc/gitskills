@@ -1,2 +1,1 @@
-Creating a new branch is quick.\r
-quick AND simple
+Creating a new branch is AND quick.\r
