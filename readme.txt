@@ -1,0 +1,1 @@
+is quick AND simple
